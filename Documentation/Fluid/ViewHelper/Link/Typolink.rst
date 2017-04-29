@@ -156,3 +156,4 @@ Result
 
    <a href="index.php?id=19&X=y&u=b" title="some title" target="_blank"
    class="ico-class" type="button">Linktext</a>
+
